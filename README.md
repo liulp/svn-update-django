@@ -2,7 +2,7 @@
 自己用django写的从测试到生产环境的，基于svn的文件或文件夹更新
 
 
-本代码适用于PHP代码，这是第一个版本，只做功能，代码写的很low，仅供参考。windows ，linux 通用，但是windows 未做回滚功能。
+本代码适用于PHP代码，这是第一个版本，只做功能，仅供参考。windows ，linux 通用，但是windows 未做回滚功能。
 
 总共用到了6张数据表， 
 login_user：用户登录表
@@ -12,6 +12,6 @@ update_prohost: 主机项目关系表。不同主机不同项目的目标地址
 update_entry:历史更新记录表（备份文件放在/opt/backup）
 update_rollback：历史回滚记录表
 
-本人邮箱89032338@qq.com
+
 
 
